@@ -5,6 +5,7 @@
 Instrucciones:
 
 Descargar Zip
+<break>
 Descomprimir en una carpeta
 Abrir el archivo "index"
 Y a jugar ☻!!!
