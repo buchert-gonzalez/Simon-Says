@@ -4,9 +4,11 @@
 
 Instrucciones:
 
-Descargar Zip
-<break>
-Descomprimir en una carpeta
-Abrir el archivo "index"
-Y a jugar ☻!!!
+• Descargar Zip
+
+• Descomprimir en una carpeta
+
+• Abrir el archivo "index"
+
+• Y a jugar ☻!!!
 
