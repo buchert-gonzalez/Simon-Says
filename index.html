@@ -9,6 +9,8 @@
     <style type="text/css">
         body{
             user-zoom: 80%;
+            background-image: url("https://static.vecteezy.com/system/resources/previews/002/561/897/non_2x/electronic-circuit-design-on-a-dark-purple-background-vector.jpg");
+            background-size: 1150px;
         }
 
         button{
@@ -102,6 +104,16 @@
             position: absolute;
             right: 525px;
             bottom: 80px;
+        }
+
+        @-webkit-keyframes trembles{
+            0%  { -webkit-transform:rotateZ(-5deg); }
+            50% { -webkit-transform:rotateZ( 0deg) scale(.8); }
+            100%{ -webkit-transform:rotateZ( 5deg); }
+        }
+
+        .trembles{
+            -webkit-animation: trembles 0.1s infinite;
         }
 
     </style>
